@@ -6,6 +6,6 @@ I have Implemented the Following Classifiers for this Problem
 2) XGBClassifier
 3) LGBMClassifier
 
-I have achieved the highest accuracy of 0.81
+I have achieved the highest accuracy of 0.81 When the CatBoostClassifier has been Used
 
 
